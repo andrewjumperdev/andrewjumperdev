@@ -32,6 +32,8 @@ Automated data scraping and product-data integration workflows at Bobochic, driv
   <img src="https://img.shields.io/badge/GSAP-88ce02?logo=greensock&logoColor=white" height="24"/>  
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>  
 </div>
+
+
 📂 Projects & Contributions
 Yumi Sync Service (Wanhao)
 Automation tool for file-change tracking and synchronization between Raspberry Pi devices and central servers.
