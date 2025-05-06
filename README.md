@@ -13,7 +13,7 @@ Automated data scraping and product-data integration workflows at Bobochic, driv
 
 🎯 Soft Skills: Agile methodologies · Analytical mindset · Team collaboration · Problem solving
 
-🌐 Languages: French (native) · Spanish (fluent) · English (fluent)
+🌐 Languages: French (fluent) · Spanish (native) · English (fluent)
 
 💻 Tech Stack
 <div> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="24"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="24"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="24"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="24"/> <img src="https://img.shields.io/badge/Firebase-FFA611?logo=firebase&logoColor=white" alt="Firebase" height="24"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="24"/> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" height="24"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="24"/> <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe" height="24"/> </div>
