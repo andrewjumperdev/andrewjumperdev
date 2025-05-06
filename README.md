@@ -1,9 +1,9 @@
-👋 About Me
+👋 **About Me**
 I’m Andrew Alfaro, a passionate Frontend Developer with over 4 years of professional experience designing and implementing high-performance, responsive web applications. Skilled in React, Next.js, Node.js and Firebase, I love turning complex problems into intuitive user experiences and automating workflows with Python.
 
 🚀 Current Focus: Leading development of scalable B2B e-commerce platforms using React, Next.js, Tailwind CSS, and secure multi-factor authentication.
 
-📈 Impact Highlights:
+📈 **Impact Highlights:**
 
 Boosted sales by 70% at Wanhao through a full redesign and responsive migration of their flagship site.
 
@@ -15,8 +15,22 @@ Automated data scraping and product-data integration workflows at Bobochic, driv
 
 🌐 Languages: French (fluent) · Spanish (native) · English (fluent)
 
-💻 Tech Stack
-<div> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="24"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="24"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" height="24"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="24"/> <img src="https://img.shields.io/badge/Firebase-FFA611?logo=firebase&logoColor=white" alt="Firebase" height="24"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="24"/> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" height="24"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="24"/> <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe" height="24"/> </div>
+
+💻 **Tech Stack**  
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>  
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24"/>  
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/Firebase-FFA611?logo=firebase&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/GSAP-88ce02?logo=greensock&logoColor=white" height="24"/>  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>  
+</div>
 📂 Projects & Contributions
 Yumi Sync Service (Wanhao)
 Automation tool for file-change tracking and synchronization between Raspberry Pi devices and central servers.
