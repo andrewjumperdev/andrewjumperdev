@@ -1,4 +1,5 @@
 👋 **About Me**
+
 I’m Andrew Alfaro, a passionate Frontend Developer with over 4 years of professional experience designing and implementing high-performance, responsive web applications. Skilled in React, Next.js, Node.js and Firebase, I love turning complex problems into intuitive user experiences and automating workflows with Python.
 
 🚀 Current Focus: Leading development of scalable B2B e-commerce platforms using React, Next.js, Tailwind CSS, and secure multi-factor authentication.
