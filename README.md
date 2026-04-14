@@ -51,6 +51,6 @@ Advanced PrestaShop scraper and Node.js pipelines to automate product data inges
 - 📧 [aacpariscr@gmail.com](mailto:aacpariscr@gmail.com)  
 - 📱 +33 7 49 92 75 46  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andrew-jumper/)  
-- 🔗 [Portfolio](https://your-portfolio.example.com](https://andrewcr.com/))
+- 🔗 [Portfolio](https://andrewcr.com/projects)
 
 “Committed to clean code, seamless UX, and continuous learning.”
